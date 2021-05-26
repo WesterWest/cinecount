@@ -13,11 +13,12 @@
 </main>
 
 <footer>
-	<blockquote style="align: center;text-align: left;color: #768390">
+	<blockquote style="align: center;text-align: left;color: #768390; padding-bottom: 10px;">
 		<p>Shortcuts:</p>
 		<p>S or SPACE - add shot</p>
 		<p>G - add segment</p>
 		<p>U - add suprasegment</p>
+		<p>Backspace - remove last shot</p>
 		<p>Enter - start counting</p>
 		<p>Escape - end counting</p>
 	</blockquote>
